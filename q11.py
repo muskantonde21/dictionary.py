@@ -1,0 +1,1 @@
+# Write a program to print the top 3 highest values of a given dictionary.
